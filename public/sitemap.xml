@@ -1,0 +1,25 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://www.antibirdnetsbangalore.com/</loc>
+  </url>
+
+  <!-- ABOUT US -->
+  <url>
+    <loc>https://www.antibirdnetsbangalore.com/about</loc>
+  </url>
+
+  <!-- OUR SERVICES -->
+  <url>
+    <loc>https://www.antibirdnetsbangalore.com/services</loc>
+  </url>
+
+  <!-- CONTACT US -->
+  <url>
+    <loc>https://www.antibirdnetsbangalore.com/contact</loc>
+  </url>
+
+</urlset>
